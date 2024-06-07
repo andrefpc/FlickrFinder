@@ -20,7 +20,7 @@ The app supports Light and Dark mode.
 
 ### Language
 
-- Kotlin
+- Kotlin + Jetpack Compose
 
 ### Architecture
 
